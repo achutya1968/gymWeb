@@ -1,0 +1,28 @@
+
+body {
+    margin: 0 auto;
+    padding:0;
+    background-color: #cec6c6;
+    width:80%;
+}
+.navbar-nav {
+    text-align: center;
+};
+
+img {
+    object-fit:cover;
+}
+
+.navbar-brand {
+    border:1px solid grey;
+    font-size:16px;
+    padding:5px;
+    border-radius:10px;
+    background-color: lightgrey;
+};
+
+.nav-link {
+  border-bottom: 1px #707070;
+
+};
+ 
